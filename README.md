@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![Screenshot 2023-12-20 101842](https://github.com/navinofficial/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/151710204/eb5fa19d-e1e8-40f6-be75-a51e0245f2db)
+ ![Screenshot 2023-12-26 104752](https://github.com/navinofficial/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/151710204/7a0cd79c-5715-47db-a0c9-03432290bdbd)
 
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
